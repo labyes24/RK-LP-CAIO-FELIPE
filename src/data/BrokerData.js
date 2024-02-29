@@ -53,18 +53,19 @@
  * @property {Array<BrokerTips>} tips - indicates the tips of the broker.
  *
  */
+
 const brokerProfile = {
   id: crypto.randomUUID(),
-  name: 'Winnetou Soares Martins',
-  CRECI: '64.763-F',
-  profileImage: '/broker/tom2.png',
+  name: 'Caio Felipe',
+  CRECI: '42.066-F',
+  profileImage: '/broker/caio.png',
   description: {
     title:
-      '"Pai do Bento e marido da Luciana, praticante de artes marciais e nas horas vagas se arrisca a cantar, tocando violão."',
+      'Cristão, Sul-mato-grossense, Esposo da Isabela e ansioso pela chegada do primeiro filho. Apaixonado por churrasco, viagens e futebol.',
     paragraph: [
-      'Apresento-me como seu corretor de imóveis, especializado em oferecer mais do que propriedades, vendo informações estratégicas e oportunidades de investimento sólido no dinâmico mercado imobiliário.',
-      'Estou aqui para ser seu guia confiável nessa jornada, proporcionando acesso aos insights valiosos sobre tendências do mercado, recomendações personalizadas para investimentos sólidos e orientação em cada etapa, desde pesquisa até a negociação de sucesso para as partes envolvidas.',
-      'Lembre-se: Na hora de negociar, solicite as certidões negativas necessárias para a realização da escritura.',
+      'Sou um corretor jovem, porém experiente, com sete anos dedicados ao mercado imobiliário. Inicialmente, aprimorei meu conhecimento atuando na administração de imóveis de locação. Atualmente, concentro-me exclusivamente em transações de vendas, assegurando um processo tranquilo e eficiente com minha expertise.',
+      'Nascido dentro de obras, destaco-me, especialmente na área elétrica de projetos multifamiliares e unifamiliares. Além da minha paixão por imóveis, sou um homem de família, casado e ansioso para chegada do meu próprio herdeiro.',
+      'Permita-me guiá-lo na jornada de encontrar o lar perfeito para criar memórias inesquecíveis.',
     ],
   },
   address: {
@@ -74,13 +75,8 @@ const brokerProfile = {
     city: 'Florianópolis',
     state: 'SC',
   },
-  phone: '(48) 98826-2951 ',
-  email: 'winnetou@rkimoveis.com.br',
-  clientReview: {
-    review:
-      'Eu e meu marido adquirimos um imóvel através do corretor Winnetou Martins e fomos muito bem tratados do início até a conclusão da compra. Ele é hábil, competente e atencioso.',
-    client: 'Valzira Souza - Advogada',
-  },
+  phone: '(48) 99821.2069',
+  email: 'caio@rkimoveis.com.br',
   comments: [
     {
       id: crypto.randomUUID(),
