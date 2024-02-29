@@ -80,11 +80,11 @@ const properties = [
       garage: '2',
     },
     pictures: [
-      './properties/ingleses-f01.jpg',
-      './properties/ingleses-f02.jpg',
-      './properties/ingleses-f03.jpg',
-      './properties/ingleses-f04.jpg',
-      './properties/ingleses-f05.jpg',
+      './properties/bergeroa-f01.jpg',
+      './properties/bergeroa-f02.jpg',
+      './properties/bergeroa-f03.jpg',
+      './properties/bergeroa-f04.jpg',
+      './properties/bergeroa-f05.jpg',
     ],
   },
   {
