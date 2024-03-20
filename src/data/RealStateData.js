@@ -23,7 +23,7 @@ const properties = [
     id: crypto.randomUUID(),
     brokerId: BROKER_ID,
     RKCode: '9747',
-    title: 'Copacabana Beach Residence',
+    title: 'Copacabana Beach',
     region: 'Ingleses',
     description:
       'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 02 vagas de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
