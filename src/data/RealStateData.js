@@ -72,7 +72,7 @@ const properties = [
     title: 'Estrela Verde',
     region: 'Ingleses',
     description:
-      'Imóvel com matrícula. Oportunidade!!!! Excelente opção para moradia ou investimento. Apartamento totalmente mobiliado com dois dormitórios sendo um suíte, planta muito bem distribuída. Móveis planejados alto padrão e decoração impecável. Sacada com churrasqueira. Localizado na área nobre na praia dos Ingleses a 450 metros do mar. Você poderá curtir uma das mais belas praias de Florianópolis. Residencial com área de lazer completa. Aceita financiamento bancário. Fale com um de nossos corretores/atendentes e visite este imóvel. Estamos sempre conectados pelo celular, whats e e-mail. Se preferir, venha tomar um café',
+      'Imóvel com Matrícula. Charmosa unidade com 02 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel mobiliado e com muito bom gosto. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.   O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
     price: 'R$ 810.000,00',
     details: {
       square: '77,45 m²',
