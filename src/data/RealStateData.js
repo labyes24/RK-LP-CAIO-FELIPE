@@ -88,6 +88,29 @@ const properties = [
       './properties/estrela-verde-f05.jpg',
     ],
   },
+  {
+    id: crypto.randomUUID(),
+    brokerId: BROKER_ID,
+    RKCode: '9616',
+    title: 'Hercílio Luz',
+    region: 'Ingleses',
+    description:
+      'Imóvel com Matrícula. Charmoso Duplex com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel com posição Solar Frente Norte, localizado a 500 metros da praia dos Ingleses. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+    price: 'R$ 845.000,00',
+    details: {
+      square: '96,21 m²',
+      rooms: '3',
+      bathrooms: '2',
+      garage: '1',
+    },
+    pictures: [
+      './properties/hercilio-luz-f01.jpg',
+      './properties/hercilio-luz-f02.jpg',
+      './properties/hercilio-luz-f03.jpg',
+      './properties/hercilio-luz-f04.jpg',
+      './properties/hercilio-luz-f05.jpg',
+    ],
+  },
 ]
 
 /**
