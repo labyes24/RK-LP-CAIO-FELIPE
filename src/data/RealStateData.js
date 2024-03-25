@@ -25,7 +25,8 @@ const properties = [
     RKCode: '9747',
     title: 'Copacabana Beach Residence',
     region: 'Ingleses',
-    description: 'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 02 vagas de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+    description:
+      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 02 vagas de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
     price: 'R$ 1.300.000,00',
     details: {
       square: '98,72 m²',
@@ -48,7 +49,7 @@ const properties = [
     title: 'Vila Inglesa',
     region: 'Ingleses',
     description:
-      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!', 
+      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
     price: 'R$ 1.980.000,00',
     details: {
       square: '119 m²',
@@ -67,47 +68,24 @@ const properties = [
   {
     id: crypto.randomUUID(),
     brokerId: BROKER_ID,
-    RKCode: '9765',
-    title: 'Torres de Bergeroa',
+    RKCode: '9886',
+    title: 'Estrela Verde',
     region: 'Ingleses',
     description:
-      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 02 vagas de garagem e um hobby box para armazenamento adicional. Imóvel semi mobiliado com muito bom gosto. Posição Solar Frente Sul com Lateral Oeste, localizado a 300 metros da praia dos Ingleses. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
-    price: 'R$ 930.000,00',
+      'Imóvel com matrícula. Oportunidade!!!! Excelente opção para moradia ou investimento. Apartamento totalmente mobiliado com dois dormitórios sendo um suíte, planta muito bem distribuída. Móveis planejados alto padrão e decoração impecável. Sacada com churrasqueira. Localizado na área nobre na praia dos Ingleses a 450 metros do mar. Você poderá curtir uma das mais belas praias de Florianópolis. Residencial com área de lazer completa. Aceita financiamento bancário. Fale com um de nossos corretores/atendentes e visite este imóvel. Estamos sempre conectados pelo celular, whats e e-mail. Se preferir, venha tomar um café',
+    price: 'R$ 810.000,00',
     details: {
-      square: '96,5 m²',
-      rooms: '3',
-      bathrooms: '2',
-      garage: '2',
-    },
-    pictures: [
-      './properties/bergeroa-f01.jpg',
-      './properties/bergeroa-f02.jpg',
-      './properties/bergeroa-f03.jpg',
-      './properties/bergeroa-f04.jpg',
-      './properties/bergeroa-f05.jpg',
-    ],
-  },
-  {
-    id: crypto.randomUUID(),
-    brokerId: BROKER_ID,
-    RKCode: '9775',
-    title: 'Águas Brisamar',
-    region: 'Ingleses',
-    description:
-      'Imóvel com Matrícula. Linda unidade com 02 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
-    price: 'R$ 660.000,00',
-    details: {
-      square: '77,71 m²',
+      square: '77,45 m²',
       rooms: '2',
-      bathrooms: '3',
+      bathrooms: '2',
       garage: '1',
     },
     pictures: [
-      './properties/brisa-f01.jpg',
-      './properties/brisa-f02.jpg',
-      './properties/brisa-f03.jpg',
-      './properties/brisa-f04.jpg',
-      './properties/brisa-f05.jpg',
+      './properties/estrela-verde-f01.jpg',
+      './properties/estrela-verde-f02.jpg',
+      './properties/estrela-verde-f03.jpg',
+      './properties/estrela-verde-f04.jpg',
+      './properties/estrela-verde-f05.jpg',
     ],
   },
 ]
