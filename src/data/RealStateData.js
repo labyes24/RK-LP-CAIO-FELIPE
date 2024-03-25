@@ -111,6 +111,29 @@ const properties = [
       './properties/hercilio-luz-f05.jpg',
     ],
   },
+  {
+    id: crypto.randomUUID(),
+    brokerId: BROKER_ID,
+    RKCode: '9781',
+    title: 'Solar das Bromélias',
+    region: 'Ingleses',
+    description:
+      'Imóvel com Matrícula. Linda unidade com 01 dormitório, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, leste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+    price: 'R$ 565.000,00',
+    details: {
+      square: '43,10 m²',
+      rooms: '1',
+      bathrooms: '1',
+      garage: '1',
+    },
+    pictures: [
+      './properties/solar-bromelias-f01.jpg',
+      './properties/solar-bromelias-f02.jpg',
+      './properties/solar-bromelias-f03.jpg',
+      './properties/solar-bromelias-f04.jpg',
+      './properties/solar-bromelias-f05.jpg',
+    ],
+  },
 ]
 
 /**
