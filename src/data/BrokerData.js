@@ -67,7 +67,7 @@ const brokerProfile = {
     city: 'Florianópolis',
     state: 'SC',
   },
-  phone: '(48) 99821.2069',
+  phone: '(48) 99821-2069',
   email: 'caio@rkimoveis.com.br',
   comments: [
     {
