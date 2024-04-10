@@ -26,7 +26,7 @@ const properties = [
     title: 'Copacabana Beach',
     region: 'Ingleses',
     description:
-      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 02 vagas de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O imóvel possui uma posição solar privilegiada, oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos do imóvel. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+      'Imóvel em Processo de Individualização de Matrícula Charmosa unidade com 03 dormitórios, sendo 01 suíte, com 02 vagas de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia Ingleses, a localização é bastante tranquila e próxima ao comércio local. O imóvel possui uma posição solar privilegiada, Oeste permitindo uma ótima iluminação e ventilação natural em todos os cômodos. O condomínio oferece área de lazer completa, proporcionando entretenimento para você e sua família.',
     price: 'R$ 1.300.000,00',
     details: {
       square: '98,72 m²',
@@ -49,7 +49,7 @@ const properties = [
     title: 'Vila Inglesa',
     region: 'Ingleses',
     description:
-      'Imóvel em Processo de individualização de Matrícula. Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+      'Imóvel em Processo de Individualização de Matrícula Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
     price: 'R$ 1.980.000,00',
     details: {
       square: '119 m²',
@@ -72,7 +72,7 @@ const properties = [
     title: 'Estrela Verde',
     region: 'Ingleses',
     description:
-      'Imóvel com Matrícula. Charmosa unidade com 02 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel mobiliado e com muito bom gosto. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.   O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+      'IMÓVEL COM MATRÍCULA Charmosa unidade com 02 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel mobiliado e com muito bom gosto. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
     price: 'R$ 790.000,00',
     details: {
       square: '77,45 m²',
@@ -95,7 +95,7 @@ const properties = [
     title: 'Hercílio Luz',
     region: 'Ingleses',
     description:
-      'Imóvel com Matrícula. Charmoso Duplex com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel com posição Solar Frente Norte, localizado a 500 metros da praia dos Ingleses. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família. Quer saber mais detalhes sobre este imóvel? Fale com a gente, estamos sempre conectados pelo celular, whats, e-mail, ou se preferir venha tomar um café!',
+      'IMÓVEL COM MATRÍCULA Charmoso Duplex com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional. Imóvel com posição Solar Frente Norte, localizado a 500 metros da praia dos Ingleses. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável. O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
     price: 'R$ 845.000,00',
     details: {
       square: '96,21 m²',
