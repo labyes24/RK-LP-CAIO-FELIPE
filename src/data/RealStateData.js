@@ -26,7 +26,7 @@ const properties = [
     title: 'Copacabana Beach',
     region: 'Ingleses',
     description:
-      '**Imóvel em Processo de individualização de Matrícula.**\n\n Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional.\n\n Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.\n\n O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
+      '**Imóvel em Processo de**\n\n **Individualização de Matrícula**\n\n Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional.\n\n Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.\n\n O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
     price: 'R$ 1.300.000,00',
     details: {
       square: '98,72 m²',
@@ -49,7 +49,7 @@ const properties = [
     title: 'Vila Inglesa',
     region: 'Ingleses',
     description:
-      '**Imóvel em Processo de Individualização de Matrícula**\n\n Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional.\n\n Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.\n\n O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
+      '**Imóvel em Processo de**\n\n **Individualização de Matrícula**\n\n Charmosa unidade com 03 dormitórios, sendo 01 suíte. Além disso, oferece comodidade com 01 vaga de garagem e um hobby box para armazenamento adicional.\n\n Totalmente mobiliada e decorada com muito bom gosto e sofisticação. Situada na área nobre da praia dos Ingleses, a localização é bastante tranquila e próxima ao comércio local, proporcionando assim um ambiente agradável.\n\n O condomínio, por sua vez, oferece uma área de lazer completa, proporcionando opções de entretenimento e relaxamento para você e sua família.',
     price: 'R$ 1.980.000,00',
     details: {
       square: '119 m²',
