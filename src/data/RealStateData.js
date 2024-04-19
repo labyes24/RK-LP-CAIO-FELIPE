@@ -111,6 +111,29 @@ const properties = [
       './properties/hercilio-luz-f05.jpg',
     ],
   },
+  {
+    id: crypto.randomUUID(),
+    brokerId: BROKER_ID,
+    RKCode: '9350',
+    title: 'Estrela Verde',
+    region: 'Ingleses',
+    description:
+      '**IMÓVEL COM MATRÍCULA**\n\n Cobertura dos seus sonhos!\n\n Totalmente mobiliada. Excelente opção para moradia ou investimento.\n\n Móveis planejados, alto padrão e decoração impecável.\n\n Área gourmet com 46,50m² e linda hidromassagem para você, sua família e amigos desfrutarem de ótimos momentos.\n\n Localizado na área nobre na praia dos Ingleses a 450m do mar.\n\n Você poderá curtir uma das mais belas praias de Florianópolis.\n\n Residencial com área de lazer completa.\n\n Aceita financiamento bancário.',
+    price: 'R$ 1.880.000,00',
+    details: {
+      square: '168,70 m²',
+      rooms: '3',
+      bathrooms: '5',
+      garage: '2',
+    },
+    pictures: [
+      './properties/cobertura-ingleses-f01.jpg',
+      './properties/cobertura-ingleses-f02.jpg',
+      './properties/cobertura-ingleses-f03.jpg',
+      './properties/cobertura-ingleses-f04.jpg',
+      './properties/cobertura-ingleses-f05.jpg',
+    ],
+  },
 ]
 
 /**
