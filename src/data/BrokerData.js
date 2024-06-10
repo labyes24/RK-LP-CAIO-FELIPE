@@ -166,7 +166,6 @@ const brokerProfilePT = {
  * @type {BrokerProfile} The broker profile for ES language
  */
 const brokerProfileES = {
-  // Add broker profile ES text here
   id: crypto.randomUUID(),
   name: 'Caio Felipe',
   CRECI: '42.066-F',
@@ -194,49 +193,49 @@ const brokerProfileES = {
       id: crypto.randomUUID(),
       author: 'Crecimiento economico',
       quote:
-        '"Invertir en propiedades en el norte de Floripa significa ser parte de una comunidad en expansión".',
+        'Invertir en propiedades en el norte de Floripa significa ser parte de una comunidad en expansión.',
     },
     {
       id: crypto.randomUUID(),
       author: 'playa Paraíso',
       quote:
-        '"Quienes viven en Ingleses tienen acceso a un verdadero paraíso tropical: una impresionante playa de aguas cristalinas y arena blanca".',
+        'Quienes viven en Ingleses tienen acceso a un verdadero paraíso tropical: una impresionante playa de aguas cristalinas y arena blanca.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Infraestructura completa',
       quote:
-        '"Las escuelas, clínicas médicas, supermercados y comercios locales aportan comodidad y practicidad en la vida cotidiana".',
+        'Las escuelas, clínicas médicas, supermercados y comercios locales aportan comodidad y practicidad en la vida cotidiana.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Naturaleza preservada',
       quote:
-        '"Las playas de Ingleses y Santinho cuentan con áreas de preservación ambiental. Equilibrio entre desarrollo urbano y naturaleza exuberante."',
+        'Las playas de Ingleses y Santinho cuentan con áreas de preservación ambiental. Equilibrio entre desarrollo urbano y naturaleza exuberante.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Diversidad de Propiedades',
       quote:
-        '"La diversidad de opciones inmobiliarias permite encontrar la vivienda ideal para todos los gustos y necesidades."',
+        'La diversidad de opciones inmobiliarias permite encontrar la vivienda ideal para todos los gustos y necesidades.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Accesibilidad',
       quote:
-        '"La región está bien conectada, lo que facilita viajar a otras partes de la isla y al continente".',
+        'La región está bien conectada, lo que facilita viajar a otras partes de la isla y al continente.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Deportes acuáticos',
       quote:
-        '"El surf, el stand up paddle y otros deportes acuáticos son populares gracias a las condiciones ideales que ofrece el mar local".',
+        'El surf, el stand up paddle y otros deportes acuáticos son populares gracias a las condiciones ideales que ofrece el mar local.',
     },
     {
       id: crypto.randomUUID(),
       author: 'Calidad de vida',
       quote:
-        '"El ambiente relajado, la naturaleza exuberante y la infraestructura completa contribuyen a una experiencia única".',
+        'El ambiente relajado, la naturaleza exuberante y la infraestructura completa contribuyen a una experiencia única.',
     },
   ],
   tips: [
