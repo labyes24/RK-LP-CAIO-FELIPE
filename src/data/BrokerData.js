@@ -166,7 +166,6 @@ const brokerProfilePT = {
  * @type {BrokerProfile} The broker profile for ES language
  */
 const brokerProfileES = {
-  // Add broker profile ES text here
   id: crypto.randomUUID(),
   name: 'Caio Felipe',
   CRECI: '42.066-F',
